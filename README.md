@@ -15,4 +15,5 @@ Variables that can be manipulated include:
 Default values of the above variables will be provided if not specified.
 
 For more information about what inspired this calculator, check out my blog post here:
+
 https://medium.com/@curtis.blake.w/my-accidental-journey-into-coast-fire-a9f33d9d4a16
