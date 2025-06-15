@@ -68,11 +68,11 @@ func main() {
 	var desiredIncome, currentSavings, nominalReturnAccumulation, nominalReturnRetirement, inflationRate float64
 
 	// Prompt user to enter values
-	fmt.Print("Enter Current Age (Default: 32): ")
-	fmt.Scanln(&startingAge)
-	if startingAge == 0 {
-		startingAge = 30
-	}
+       fmt.Print("Enter Current Age (Default: 30): ")
+       fmt.Scanln(&startingAge)
+       if startingAge == 0 {
+               startingAge = 30
+       }
 
 	fmt.Print("Enter Retirement Age (Default: 60): ")
 	fmt.Scanln(&retirementAge)
